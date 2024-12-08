@@ -20,7 +20,10 @@ Reads in the 4 CSVs and takes the start date of these events and gives the price
 
 
 # Data from `mainP3.r`
-    "event: Ukraine/Russia"
+
+All Numbers are in Percentages (%)
+
+"event: Ukraine/Russia"
  "NVDA change: 16.5894736842105"
  "TSLA change: 26.2101004046156"
  "LMT change: 14.6445629375048"
